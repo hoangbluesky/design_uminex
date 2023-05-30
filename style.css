@@ -405,6 +405,9 @@ input, button {
     margin: 0 30px;
 
 }
+.list-shop li:first-child {
+    font-weight: 600;
+}
 .item-shop {
     font-size: 14px;
     line-height: 18px;
